@@ -1,5 +1,5 @@
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, Jenkins CI!");
+        System.out.println("Update HelloWorld message to trigger CI");
     }
 }
